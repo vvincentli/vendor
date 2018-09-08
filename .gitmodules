@@ -1,0 +1,3 @@
+[submodule "go-config"]
+	path = go-config
+	url = git@github.com:micro/go-config.git
